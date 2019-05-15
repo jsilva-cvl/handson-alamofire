@@ -6,5 +6,5 @@ target 'howto-alamofire' do
   use_frameworks!
 
   # Pods for howto-alamofire
-  pod 'Alamofire'
+  pod 'AlamofireImage', '~> 3.3'
 end
